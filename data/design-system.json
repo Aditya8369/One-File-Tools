@@ -396,6 +396,37 @@
       "status": "live"
     },
     {
+      "id": "settings-preferences-panel",
+      "name": "Settings & Preferences Panel",
+      "shortDescription": "A comprehensive settings/preferences panel with profile management, notifications, appearance customization, security settings, and billing management.",
+      "longDescription": "## Settings & Preferences Panel\n\nA fully-featured settings and preferences panel designed for modern web applications. Built with vanilla JavaScript and Tailwind CSS, featuring five organized tab sections for complete account management.\n\n### Features\n\n- **Profile Management**: Avatar upload with preview, full name, email, username, bio, and timezone selection\n- **Notification Controls**: Email and push notification toggles for weekly digests, product updates, comments, mentions, and DMs\n- **Appearance Customization**: Light/Dark/System theme selector, accent color swatch picker (Indigo, Emerald, Rose, Amber, Violet, Sky, Slate), and display density options\n- **Security Settings**: Password change form with visibility toggles, two-factor authentication toggle with setup info panel, and active sessions table with revoke actions\n- **Billing Management**: Current plan display, payment method card, billing history table, and subscription actions\n- **Interactive Features**: Toast notifications with auto-dismiss, loading states on save buttons, keyboard navigation (arrow keys between tabs), responsive mobile dropdown for tab switching\n- **Dark/Light Mode**: Theme toggle with localStorage persistence and system preference detection\n- **Fully responsive** — works from mobile to ultrawide screens",
+      "category": "components",
+      "tags": [
+        "account",
+        "appearance",
+        "billing",
+        "dark-mode",
+        "notifications",
+        "preferences",
+        "profile",
+        "responsive",
+        "security",
+        "settings",
+        "tailwind"
+      ],
+      "techStack": [
+        "CSS3",
+        "HTML5",
+        "JavaScript",
+        "Tailwind CSS"
+      ],
+      "frameworks": [
+        "Tailwind CSS"
+      ],
+      "difficulty": "Medium",
+      "status": "live"
+    },
+    {
       "id": "social-media-feed",
       "name": "Social Media Feed",
       "shortDescription": "A Twitter/X-style design-system feed with composer, threaded reply preview, interactive post actions, trending, and dark/light mode.",
